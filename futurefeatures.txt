@@ -1,0 +1,40 @@
+Done: 
+Benefit from 4/5 matches
+Sticky
+Earn points
+Add time
+Retrigger
+Chain retrigger
+Cumulative retrigger
+Easy/hard to use
+Growth; decay (+permanent)
+
+Single use
+Create tiles worth points
+Create wild tiles
+
+Create tiles worth longer matches (3 into 4, 4 into 5, etc.)
+Add double-count match tiles
+Add random tiles
+Destroy tiles
+Convert pieces to own/other color
+Blocks; create blocks (own stack or others, top or bottom)
+Function unimpeded by certain modifiers-- heat tolerant, drought tolerant, etc., hardy
+Keep abilities
+Boost next ability
+Weaken next ability
+Boost abilities next round
+Weaken abilities next round
+Copy last tile's value or abilities
+Stronger before/after halfway point to next level
+Duplicate (onto next tile to be used)
+Echo
+Next round
+Add certain ability to next square
+Mana cost and gain
+Create/destroy useless tiles
+Shuffle the board
+Shuffle/reorganize the stack
+Is itself wild
+Slow
+Save progress

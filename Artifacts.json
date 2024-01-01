@@ -1,0 +1,8 @@
+{
+    "Middle Out": "Removes the second box from this stack",
+    "End Shuffle": "Replaces the last box in the stack with \"1/0/0 regenerate\"",
+    "Ignore 4/5 Matches":"Add the four and five match powers of each box to the base power (the five match power is halved) then remove all four and five match powers from those boxes",
+    "First Time": "Add timer to the first item in the list",
+    "4/5 Match +3/6": "Add 3 to all nonzero 4-match powers and 6 to all nonzero 5-match powers",
+    "Aggregate": "Combine all tiles in the stack into the last one"
+}
