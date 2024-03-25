@@ -15,8 +15,15 @@ class Board():
                 self.board[i].append(Tile(self.game.config.colors, self.game.config.startingTileValues, self))
         tempAllList = []
         for i in range(self.game.config.boardSize[1]):
-            for j in range(self.game.config.boardSize[0]):
-                tempAllList.append((j, i))
+            if i%3 == 2:
+                for j in range(self.game.config.boardSize[0]):
+                    if j%3 != 2:
+                        tempAllList.append((j, i))
+            else:
+                for j in range(self.game.config.boardSize[0]):
+                    if j%3 == 2:
+                        tempAllList.append((j, i))
+
         tempAllMatches = self.checkMatches(tempAllList)
         while tempAllMatches != []:
             for m in tempAllMatches:
